@@ -38,8 +38,8 @@ Follow these steps to get the application running on your local machine:
 
 1. **Clone the repository (or extract the project folder):**
    ```bash
-   git clone https://github.com/YourUsername/Your-Repo-Name.git
-   cd Your-Repo-Name
+   git clone https://github.com/SaurabhD19/interactive-dataviz-tool.git
+   cd interactive-dataviz-tool
    ```
 
 2. **Create a virtual environment (Highly Recommended):**
@@ -70,3 +70,5 @@ Follow these steps to get the application running on your local machine:
 3. **Select Target:** Choose the column you want the AI to learn to predict. The app will let you know if it is treating your target as a Classification or Regression problem.
 4. **Data Visualization:** Select 'Data Visualization' from the menu and switch between Plotly charts to find correlations and data outliers.
 5. **SHAP Analysis:** Select 'SHAP Analysis' from the menu. Evaluate the model's live training performance (Accuracy or R²/MSE) and interact with SHAP plots to understand *how* the model is making its predictions.
+
+---
